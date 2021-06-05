@@ -1,9 +1,9 @@
-C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.deps.json
-C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.dll
-C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.pdb
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.AssemblyInfoInputs.cache
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.AssemblyInfo.cs
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.csproj.CoreCompileInputs.cache
+C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.deps.json
+C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.dll
+C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.pdb
+C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.xml
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.dll
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.pdb
-C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.xml

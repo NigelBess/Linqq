@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Linqq</id>
+    <version>1.0.1</version>
+    <authors>Nigel Bess</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>About
+A collection of LINQ-like functions for enumeration</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.dll" target="lib\netcoreapp3.1\Linqq.dll" />
+    <file src="C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.xml" target="lib\netcoreapp3.1\Linqq.xml" />
+  </files>
+</package>
