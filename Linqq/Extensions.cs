@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Linqq
 {
@@ -38,6 +39,18 @@ namespace Linqq
 
             return maxItem;
         }
+
+        public static List<T> SortBy<T>(this List<T> list, Func<T,double> sortyBy)
+        {
+            var returnList = list.ToList();
+            var comparer = new GenericComparer<T>(sortyBy);
+            returnList.Sort(comparer);
+            return returnList;
+        }
+
+ 
+
+        
 
 
 

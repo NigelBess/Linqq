@@ -7,4 +7,3 @@ C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.pdb
 C:\Dev\Linqq\Linqq\bin\Debug\netcoreapp3.1\Linqq.xml
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.dll
 C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.pdb
-C:\Dev\Linqq\Linqq\obj\Debug\netcoreapp3.1\Linqq.csprojAssemblyReference.cache
