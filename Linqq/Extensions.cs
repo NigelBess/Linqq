@@ -40,7 +40,7 @@ namespace Linqq
             return maxItem;
         }
 
-        public static List<T> SortBy<T>(this List<T> list, Func<T,double> sortyBy)
+        public static List<T> SortBy<T>(this IEnumerable<T> list, Func<T,double> sortyBy)
         {
             var returnList = list.ToList();
             var comparer = new GenericComparer<T>(sortyBy);
