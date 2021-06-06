@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Linqq/1.0.2": {
+      "Linqq/1.0.3": {
         "runtime": {
           "Linqq.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Linqq/1.0.2": {
+    "Linqq/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

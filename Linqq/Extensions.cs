@@ -21,5 +21,25 @@ namespace Linqq
                 yield return new Tuple<T, int>(item, index++);
             }
         }
+
+        public static T MaxBy<T>(this IEnumerable<T> enumerable, Func<T, double> traitToCompare)
+        {
+            var max = double.MinValue;
+            T maxItem = default;
+            foreach (var item in enumerable)
+            {
+                var value = traitToCompare(item);
+                if (value > max)
+                {
+                    max = value;
+                    maxItem = item;
+                }
+            }
+
+            return maxItem;
+        }
+
+
+
     }
 }

@@ -11,7 +11,7 @@
     "C:\\Users\\nigel\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "restore": {
       "projectUniqueName": "C:\\Dev\\Linqq\\Linqq\\Linqq.csproj",
       "projectName": "Linqq",
@@ -28,7 +28,8 @@
       ],
       "sources": {
         "C:\\Nuget": {},
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
